@@ -1,0 +1,1 @@
+## 用于配置URL路由规则，详见：https://eggjs.org/zh-cn/basics/router.html

@@ -1,0 +1,1 @@
+用于放置静态资源，可选，具体参见内置插件 (egg-static)[https://github.com/eggjs/egg-static]
